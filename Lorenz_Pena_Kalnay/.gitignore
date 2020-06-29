@@ -1,0 +1,7 @@
+# Assing the files git should ignore
+*.pyc
+*.pkl
+*.mp4
+*.png
+*.eps
+*.jpg
